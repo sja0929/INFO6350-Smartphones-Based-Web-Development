@@ -1,0 +1,9 @@
+Final Project: Bitcoin Live Price Update Extension
+ 
+Bitcoin has become one of the modern currencies that are being accepted in the process of trades between large enterprises. Each Bitcoin is basically a computer file which is stored in a 'digital wallet' app on a smartphone or computer. People can send Bitcoins (or part of one) to your digital wallet, and you can send Bitcoins to other people. You can sell things and let people pay you with Bitcoins. However, the value of bitcoin right now is still hard to evaluate. When investing, it's wise to buy low and sell high. But for the time being bitcoin is still volatile and lacks the dividend payments of many stocks and bonds. 
+
+Due to the fact that we have not very much time to finish the project, I chose to make an extension that is focusing mainly on getting the bitcoin live update price in USD, so that people can have a clear number of how much is his bitcoin value right at the moment. It helps to decide when to buy and sell bitcoins. I believe the extension is needed by those companies who are involved in bitcoin trades.  
+
+I have the icon and the name of the extension shown properly, as well as having the extension to work as expected. Screen shot is enclosed. 
+
+Thank you for your time.
